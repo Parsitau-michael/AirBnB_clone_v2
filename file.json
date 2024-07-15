@@ -1,0 +1,75 @@
+{
+  "User.77399293-dac6-43db-a84c-3c6887563136": {
+    "id": "77399293-dac6-43db-a84c-3c6887563136",
+    "created_at": "2024-07-15T02:51:26.098518",
+    "updated_at": "2024-07-15T02:51:26.098559",
+    "__class__": "User"
+  },
+  "User.94d03c7b-25d3-435d-a417-0bac0f9bd264": {
+    "id": "94d03c7b-25d3-435d-a417-0bac0f9bd264",
+    "created_at": "2024-07-15T02:51:46.167958",
+    "updated_at": "2024-07-15T02:51:46.167996",
+    "namw": "Mike",
+    "__class__": "User"
+  },
+  "BaseModel.4f0d160f-0e8a-46b5-9cc6-be017d1f06c7": {
+    "id": "4f0d160f-0e8a-46b5-9cc6-be017d1f06c7",
+    "created_at": "2024-07-15T02:53:21.009520",
+    "updated_at": "2024-07-15T02:53:21.009576",
+    "Name": "Michael",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.09cc7cd0-f32f-4bc5-9e0f-8cf2e9a8a22f": {
+    "id": "09cc7cd0-f32f-4bc5-9e0f-8cf2e9a8a22f",
+    "created_at": "2024-07-15T02:53:33.859183",
+    "updated_at": "2024-07-15T02:53:33.859227",
+    "Name": "Michael Parsitau",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.fdf976b3-6953-4b81-9a60-0869fd3af78d": {
+    "id": "fdf976b3-6953-4b81-9a60-0869fd3af78d",
+    "created_at": "2024-07-15T02:53:53.180735",
+    "updated_at": "2024-07-15T02:53:53.180779",
+    "Name": "Michael Parsitau",
+    "age": "23",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.39b1eaf4-09aa-44f1-b5ab-4ba274a1149a": {
+    "id": "39b1eaf4-09aa-44f1-b5ab-4ba274a1149a",
+    "created_at": "2024-07-15T02:54:28.763738",
+    "updated_at": "2024-07-15T02:54:28.763782",
+    "Name": "Michael Parsitau",
+    "age": "23",
+    "height": 5.11,
+    "__class__": "BaseModel"
+  },
+  "Place.33670e25-2025-45e0-a7a8-26216c1376d0": {
+    "id": "33670e25-2025-45e0-a7a8-26216c1376d0",
+    "created_at": "2024-07-15T03:02:48.341198",
+    "updated_at": "2024-07-15T03:02:48.341265",
+    "city_id": 1,
+    "user_id": 1,
+    "number_rooms": 4,
+    "number_bathrooms": 2,
+    "max_guest": 10,
+    "price_by_night": 300,
+    "latitude": 37.773972,
+    "longitude": -122.431297,
+    "__class__": "Place"
+  },
+  "Place.b7e26089-f04d-4e6c-8982-1f1dae7464e2": {
+    "id": "b7e26089-f04d-4e6c-8982-1f1dae7464e2",
+    "created_at": "2024-07-15T03:08:19.155427",
+    "updated_at": "2024-07-15T03:08:19.155485",
+    "city_id": "0001",
+    "user_id": "0001",
+    "name": "My little house",
+    "number_rooms": 4,
+    "number_bathrooms": 2,
+    "max_guest": 10,
+    "price_by_night": 300,
+    "latitude": 37.773972,
+    "longitude": -122.431297,
+    "__class__": "Place"
+  }
+}
