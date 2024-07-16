@@ -27,7 +27,7 @@ class FileStorage:
 
         if type(cls) == str:
             cls = classes.get(cls)
-        return {k: v for k,v in self.__objects.items() if isinstance(v, cls)}
+        return {k: v for k, v in self.__objects.items() if isinstance(v, cls)}
 
     def delete(self, obj=None):
         """Delete obj from _objects"""
